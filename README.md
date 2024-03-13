@@ -13,7 +13,7 @@ To get started, follow these simple steps:
    git clone https://github.com/your-username/your-portfolio.git
    ```
 
-2. **Navigate to the Project Directory**:
+2. **Navigate to the Project Directory**: 
    ```bash
    cd your-portfolio
    ```
