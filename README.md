@@ -6,8 +6,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 ## Getting Started
 
-To get started, follow these simple steps:
-
+To get started, follow these simple steps
 1. **Clone the Repository**: 
    ```bash
    git clone https://github.com/your-username/your-portfolio.git
