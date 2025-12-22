@@ -1,4 +1,4 @@
-# Portfoli
+# Portfolio
 
 # Personal Portfolio Website
 
