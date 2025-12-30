@@ -1,5 +1,4 @@
 # Portfolio
-
 # Personal Portfolio Website
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experiences in the field of [insert field or industry]. Feel free to explore and get to know me better!
